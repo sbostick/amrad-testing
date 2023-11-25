@@ -48,6 +48,8 @@ Fun and useful YouTube content:
 * https://www.youtube.com/@davecasler
 * https://www.youtube.com/@HamRadioCrashCourse
 * https://www.youtube.com/@HamRadio2
+* https://www.youtube.com/@HamRadioDX
+* https://www.youtube.com/@TheSmokinApe
 * https://www.youtube.com/@KB9VBRAntennas
 * https://www.youtube.com/@K6ARK
 * https://www.youtube.com/@hambitious
