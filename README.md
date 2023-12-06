@@ -43,10 +43,11 @@ format images from the PDF docs. I discarded the JPEG images.
 
 *NOTE:*
 The PDF document for Tech yeilds malformatted text when I copy/paste. Not
-sure what the problem is but copy/past from the docx format works fine. So
+sure what the problem is but copy/paste from the docx format works fine. So
 just use the DOCX documents for all the inputs. That is, copy/paste from the
-docx resources instead of the PDF or text version. Note that the text version
-is available for download for Extra but not for the other licenses.
+docx resources instead of the PDF or text version. A text version of the
+questions is available for download for the Extra license, but not for the
+other licenses.
 
 *NOTE:*
 The General question docx has one formatting error in question G2E02.
